@@ -1,3 +1,5 @@
+![database-monitoring](https://user-images.githubusercontent.com/99951561/179403611-3b17afeb-61d5-44ff-a20e-979d5421a8eb.jpg)
+
 Pada project kali ini, kita akan menganalisis database Northwind.
 
 Video Analisis 
